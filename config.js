@@ -1,5 +1,5 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// 💝      DEAR KATHARINE ANNE VAUGHAN      💝
 // ============================================
 
 const CONFIG = {
